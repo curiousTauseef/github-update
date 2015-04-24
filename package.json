@@ -1,0 +1,25 @@
+{
+  "name": "github-update",
+  "version": "0.0.1",
+  "description": "Check GitHub Releases for new update.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/octalmage/github-update"
+  },
+  "keywords": [
+    "GitHub",
+    "update",
+    "checker",
+    "auto"
+  ],
+  "author": "Jason Stallings",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octalmage/github-update/issues"
+  },
+  "homepage": "https://github.com/octalmage/github-update",
+  "dependencies": {
+    "semver": "^4.3.3"
+  }
+}
